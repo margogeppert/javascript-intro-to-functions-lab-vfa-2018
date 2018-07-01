@@ -1,5 +1,6 @@
 function shout(string) {
   return string.toUpperCase()
+<<<<<<< HEAD
 }
 
 function whisper(string) {
@@ -27,4 +28,6 @@ function logShout(string) {
 
 function logWhisper(string) {
   console.log(string.toLowerCase())
+=======
+>>>>>>> a1536db57a18d5290f98de213b878596638162d9
 }
